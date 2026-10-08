@@ -2,7 +2,7 @@
 # UPI AND OSINT Reconnaissance
 
 ## Introduction & Executive Summary
-**Author:** Nabeel, Security Researcher, nabeel@soobik.com
+**Author:** Nabeel, Security Researcher
 
 #### 1. Background & Context
 The Unified Payments Interface (UPI) ecosystem, managed by the National Payments Corporation of India (NPCI), has evolved into one of the world's largest real-time payment networks. To ensure seamless transaction routing and foster trust between transacting parties, Third-Party Application Providers (TPAPs) such as Google Pay, Amazon Pay, PhonePe, and CRED frequently surface transaction metadata, beneficiary display names, and payment routing feedback to remitters.
