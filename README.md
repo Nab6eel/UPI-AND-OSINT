@@ -1,3 +1,4 @@
+
 # UPI AND OSINT Reconnaissance
 
 Security research report by **Nabeel**.
@@ -16,8 +17,6 @@ Security research report by **Nabeel**.
 [Read the complete report on one page](REPORT.md)
 
 ## About this publication
-
-Exported from the author’s Notion report, preserving the report text and all 22 embedded figures. Each chapter includes previous/next navigation.
 
 The source states that its example identifiers and visual artifacts are synthetic and testing used self-owned or authorized accounts. Findings and regulatory references are preserved as the author’s claims and were not independently verified during export.
 
